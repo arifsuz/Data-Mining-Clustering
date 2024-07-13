@@ -1,1 +1,1 @@
-# Data-Maining-Clustering
+# Data-Mining-Clustering
